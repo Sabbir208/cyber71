@@ -12,7 +12,7 @@ Install this tool
 
 4.git clone https://github.com/Sabbir208/cyber71
 
-5.cd cybersabbir
+5.cd cyber71
 
 6.python cybersabbir.py
 
